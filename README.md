@@ -7,8 +7,8 @@ This repository contains selected projects demonstrating my work.
 ### Contents
 
 The repository includes:
-- Implementation of Euler's method for solving ODEs with corresponding GUI (Tkinter) and plotting options
-- Jupiter Notebook containing analysis of clustering approach to Banknote Authentification dataset
+- Implementation of Euler's method for solving ODEs with corresponding GUI and plotting options. More detailed description of the code is written in Powerpoint presentation
+- Jupiter Notebook containing analysis of clustering approach to [https://archive.ics.uci.edu/dataset/267/banknote+authentication](Banknote Authentification dataset)
 
 Each project is listed above.
 
