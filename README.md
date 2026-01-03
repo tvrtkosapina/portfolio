@@ -6,11 +6,21 @@ This repository contains selected projects demonstrating my work.
 
 ### Contents
 
-The repository includes:
-- Implementation of Euler's method for solving ODEs with corresponding GUI and plotting options. More detailed description of the code is written in Powerpoint presentation
-- Jupiter Notebook containing analysis of clustering approach to [https://archive.ics.uci.edu/dataset/267/banknote+authentication](Banknote Authentification dataset)
+The repository includes the following projects:
 
-Each project is listed above.
+- **Euler’s Method for ODEs (Python, GUI)**  
+  Implementation of Euler’s method for solving ordinary differential equations, including a graphical user interface (Tkinter) and plotting functionality.  
+  A detailed explanation of the implementation and numerical background is provided in the accompanying presentation:  
+  `Rješavanje diferencijalnih jednadžbi Eulerovom metodom.pptx`  , while the code is in a file: `Rješavanje diferencijalnih jednadžbi Eulerovom metodom.py`
+  *Language: Croatian*
+
+- **Banknote Authentication – Clustering Analysis (Python, Jupyter Notebook)**  
+  Exploratory analysis and clustering-based approach applied to the  
+  [Banknote Authentication dataset](https://archive.ics.uci.edu/dataset/267/banknote+authentication).  
+  Files included:
+  - `Banknote_auth_final version.ipynb`
+  - `data_banknote_authentication.csv`  
+  *Language: English*
 
 ### Used technologies and skills
 
